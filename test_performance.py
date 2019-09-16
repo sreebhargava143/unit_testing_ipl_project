@@ -2,7 +2,7 @@ import unittest
 import collections
 import sys
 import json
-sys.path.append('/home/sribhargava/Desktop/ipl/iplproject2/')
+sys.path.append('/home/sribhargava/Desktop/projects/ipl/iplproject2/')
 from performance import *
 class TestPerformance(unittest.TestCase):
     def test_get_season_id_dict(self):

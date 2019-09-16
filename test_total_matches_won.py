@@ -1,7 +1,7 @@
 import unittest
 import collections
 import sys
-sys.path.append('/home/sribhargava/Desktop/ipl/iplproject2/')
+sys.path.append('/home/sribhargava/Desktop/projects/ipl/iplproject2/')
 from total_matches_won import find_matches_won
 
 class TestTotalMatchesWon(unittest.TestCase):

@@ -1,7 +1,7 @@
 import unittest
 import collections
 import sys
-sys.path.append('/home/sribhargava/Desktop/ipl/iplproject2/')
+sys.path.append('/home/sribhargava/Desktop/projects/ipl/iplproject2/')
 from extra_runs_conceded import find_extra_runs_conceded
 
 class TestExtraRunsConcede(unittest.TestCase):

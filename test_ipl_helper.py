@@ -1,7 +1,7 @@
 import unittest
 import collections
 import sys
-sys.path.append('/home/sribhargava/Desktop/ipl/iplproject2/')
+sys.path.append('/home/sribhargava/Desktop/projects/ipl/iplproject2/')
 from ipl_helper import *
 
 class TestIplHelper(unittest.TestCase):
